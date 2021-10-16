@@ -1,5 +1,5 @@
 {
-    "name": "myfatoorah/omnipay",
+    "name": "amer/myfatoorah",
     "description": "MyFatoorah driver for the Omnipay payment processing library",
     "type": "library",
     "require": {
@@ -15,7 +15,7 @@
     "authors": [
         {
             "name": "MyFatoorah Technical Support Team",
-            "email": "plugins@myfatoorah.com"
+            "email": "amer.khalil9094@gmail.com"
         }
     ],
     "minimum-stability": "dev"
