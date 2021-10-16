@@ -1,4 +1,4 @@
-# Omnipay: MyFatoorah
+# Omnipay: MyFatoorah amer
 
 **MyFatoorah gateway integration for the Omnipay PHP payment processing library**
 
